@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 ## Estadísticas de GitHub<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielmf07&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" width="400px" />
-
-  <img align="left" src="/img/gifcohete.gif" ref="gif" width="80" heigth="80" align="left center"></img>
+<img src="/img/gifcohete.gif" ref="gif" width="80" heigth="80"></img>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmf07&size_weight=0.5&count_weight=0.5&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="Language Stats" width="400px" />
 </p>
