@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://i.pinimg.com/564x/ff/a4/e3/ffa4e3402c6c3989517bcad514fc4c93.jpg"/>
+<img src="https://i.pinimg.com/564x/ff/a4/e3/ffa4e3402c6c3989517bcad514fc4c93.jpg" alt="future" width="200" height="200"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
