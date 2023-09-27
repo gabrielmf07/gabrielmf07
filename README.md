@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://twitter.com/AnaDeArmasWorld/header_photo"/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
