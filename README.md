@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="[https://twitter.com/AnaDeArmasWorld/header_photo](https://pbs.twimg.com/profile_banners/2846717690/1506540643/1500x500)"/>
+<img src="https://i.pinimg.com/564x/ff/a4/e3/ffa4e3402c6c3989517bcad514fc4c93.jpg"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
